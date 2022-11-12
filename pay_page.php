@@ -86,7 +86,7 @@ body, html {
                data:"amt="+amt+"&name="+name,
                success:function(result){
                    var options = {
-                        "key": "rzp_test_Xg4CSRLIA0WzOE", 
+                        "key": "Enter Your RazorPay Key", 
                         "amount": amt*100, 
                         "currency": "INR",
                         "name": "Charging Point",
